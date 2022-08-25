@@ -1,2 +1,2 @@
 # vtnschool_challenges
-Repository created to create the vntschool Android challenges.
+Repository created for the vntschool Android challenges.
